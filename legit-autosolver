@@ -1,0 +1,3 @@
+-- copy paste this into your exec
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/snakechi/ldpain-minesweeper/refs/heads/main/script.luau"))()
