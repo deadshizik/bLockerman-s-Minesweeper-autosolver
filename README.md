@@ -20,3 +20,7 @@ status - same thing as in rage
 auto flag (flags mines in range, kinda buggy)
 calculate delay (amount of time before the script would calculate again)
 flag range
+
+event
+
+collect presents - automatically collects presents if they spawn
